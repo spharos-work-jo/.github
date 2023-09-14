@@ -119,7 +119,7 @@
 
 ## 5. 프로젝트 설계 문서
 
-<img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%A7%80%EB%9D%BC.png" hight="500px;" width="1000px;" alt=""/>👉ZIRA : [https://www.erdcloud.com/d/9StnGP9ZqWXYSh2CH](https://1jojojo.atlassian.net/jira/software/projects/SSG/boards/1)
+<img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%A7%80%EB%9D%BC.png" hight="500px;" width="1000px;" alt=""/>👉ZIRA : https://1jojojo.atlassian.net/jira/software/projects/SSG/boards/1
 
 ## 6. 팀 문화
 
