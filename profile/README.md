@@ -25,7 +25,7 @@
         <br>
       </td>
       <td align="center">
-        <image src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/KakaoTalk_20230914_152020889.png" width="150px;" hight="150px;" alt=""/><br>
+        <image src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/KakaoTalk_.png" width="150px;" hight="150px;" alt=""/><br>
           <p>
             <b>
           팀원 : 김성용<br>
