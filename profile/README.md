@@ -18,9 +18,9 @@
             <b>
           조장 : 김빛누리<br>
             <sub>
-          ▶ Backend<br>
-            </sub>
-              ▶총괄
+           Backend<br>
+              총괄<br>
+              </sub>
           </b>
           </p>
         <br>
@@ -31,9 +31,9 @@
             <b>
           팀원 : 김성용<br>
             <sub>
-          ▶ Backend<br>
-            </sub>
-              ▶백엔드 팀장
+           Backend<br>
+              백엔드 팀장<br>
+              </sub>
           </b>
           </p>
         <br>
@@ -44,22 +44,22 @@
             <b>
           팀원 : 고신영<br>
             <sub>
-          ▶ Frontend<br>
+          Frontend<br>
+          서기 및 프론트 QA <br>
+              </b>
             </sub>
-            ▶서기 및 프론트 QA
-          </b>
           </p>
         <br>
       </td>
       <td align="center">
-      <image src="https://avatars.githubusercontent.com/u/140700973?v=4" width="150px;" alt=""/><br>
+      <image src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/KakaoTalk_20230914_154428827.png" width="150px;" alt=""/><br>
           <p>
             <b>
           팀원 : 김형진<br>
             <sub>
-          ▶ Frontend<br>
-            </sub>
-              프론트엔드 팀장
+              Frontend<br>
+              프론트엔드 팀장<br>
+              </sub>
           </b>
           </p>
         <br>
@@ -70,9 +70,9 @@
             <b>
           팀원 : 배송윤<br>
             <sub>
-          ▶ Frontend<br>
+           Frontend<br>
+          승리자(조기퇴소)<br>
             </sub>
-              ▶승리자(조기퇴소)
           </b>
           </p>
         <br>
