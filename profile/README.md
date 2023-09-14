@@ -116,9 +116,10 @@
 <img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/erd%20cloud.png" hight="500px;" width="1000px;" alt=""/>
 ## 5. 프로젝트 설계 문서
 
-- ERD
+<a href="https://www.erdcloud.com/d/9StnGP9ZqWXYSh2CH"><img src="https://img.shields.io/badge/erd-7F2B7B?style=flat-square&logo=erd&logoColor=white"/></a>
 
 - JIRA
 
 ## 6. 팀 문화
-- notion
+
+<h3>👉👉<a href="https://www.notion.so/359f3b51016b40c2965bbfb45853ecd4"> 팀 노션 링크</a>👈👈</h3>
