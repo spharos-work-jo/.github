@@ -65,7 +65,7 @@
         <br>
       </td>
       <td align="center">
-        <image src="https://i.namu.wiki/i/EbHl4I2dCr3aoC7AFjMYv7zBAFQTE0Cr0-r2XiIKLakxARH3BY9eonE3AZ2_ctET_2vpLI-piN4F224wAUdyyQ.webp" width="150px;" alt=""/><br>
+        <image src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/20968705_135709000370564_8315667300556472320_n.jpg" width="150px;" alt=""/><br>
           <p>
             <b>
           팀원 : 배송윤<br>
