@@ -140,8 +140,8 @@
 
 ## 5. 프로젝트 설계 문서
 
-<img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%A7%80%EB%9D%BC.png" hight="500px;" width="1000px;" alt=""/>👉ZIRA : https://1jojojo.atlassian.net/jira/software/projects/SSG/boards/1
-
+<img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%A7%80%EB%9D%BC.png" hight="500px;" width="1000px;" alt=""/>👉ZIRA : https://1jojojo.atlassian.net/jira/software/projects/SSG/boards/1  
+👉Miro(이벤트 스토밍) : https://miro.com/app/board/uXjVMXdyT0I=/?share_link_id=791209772482
 ## 6. 팀 문화
 
 <h4><a href="https://www.notion.so/359f3b51016b40c2965bbfb45853ecd4"> <img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%85%B8%EC%85%98.png" hight="150px;" width="150px;" alt=""/></a>👉 클릭시 팀 노션으로 이동합니다.</h4>
