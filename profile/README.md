@@ -20,6 +20,7 @@
             <sub>
           ▶ Backend<br>
             </sub>
+              ▶총괄
           </b>
           </p>
         <br>
@@ -32,6 +33,7 @@
             <sub>
           ▶ Backend<br>
             </sub>
+              ▶백엔드 팀장
           </b>
           </p>
         <br>
@@ -44,6 +46,7 @@
             <sub>
           ▶ Frontend<br>
             </sub>
+            ▶서기 및 프론트 QA
           </b>
           </p>
         <br>
@@ -56,6 +59,7 @@
             <sub>
           ▶ Frontend<br>
             </sub>
+              프론트엔드 팀장
           </b>
           </p>
         <br>
@@ -68,6 +72,7 @@
             <sub>
           ▶ Frontend<br>
             </sub>
+              ▶승리자(조기퇴소)
           </b>
           </p>
         <br>
@@ -144,4 +149,13 @@
 👉Miro(이벤트 스토밍) : https://miro.com/app/board/uXjVMXdyT0I=/?share_link_id=996876075094
 ## 6. 팀 문서
 
+### 팀워크 & 커뮤니케이션
+
+- 원활한 의사소통 (상대방이 이해할 수 있게 말하기)
+- 편하게 질문하고 잘 안되면 서로 도와주기 ( 혼자 너무 오래 고민하지 말기 )
+- 멍 때리게 되는 경우 옆에서 같이 북돋아주기
+- 지각/결석/조퇴 하루전 알려주기
+    - 일정 기록해두고 + 회의 또는 회고 시간에 직접 말하기
+- 학습장 주변 가성비 맛집 공유하기
+  
 <h4><a href="https://www.notion.so/359f3b51016b40c2965bbfb45853ecd4"> <img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%85%B8%EC%85%98.png" height="150px;" width="150px;" alt=""/></a>👉 클릭시 팀 노션으로 이동합니다.</h4>
