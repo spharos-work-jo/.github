@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Rounded&color=EFD97D&height=200&section=header&text=스파로스%201차%20프로젝트&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=8EC69D&height=300&section=header&text=스파로스%201차%20프로젝트&fontSize=40" />
   <div align="center">
     <h3>⭐1차 프로젝트 - 신세계 포인트 앱 클론코딩⭐</h3> 
     <h4>프로젝트 기간 - 7/31 ~ 9/14</h4>
@@ -102,9 +102,10 @@
 
 ## 3. 화면 상세
 <div>
-  <img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A9%94%EC%9D%B8%20%ED%99%882.png"  hight="150px;" width="300px;" alt=""/>
+  <img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A9%94%EC%9D%B8%20%ED%99%882.png"  hight="150px;" width="300px;" alt=""/> 
   <img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png"  hight="150px;" width="300px;" alt=""/>
   <img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%A7%80%EB%8F%84%EB%A1%9C%20%EC%B0%BE%EA%B8%B0.png"  hight="150px;" width="300px;" alt=""/>
+<br> 
 </div>
 <div>
   <img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%BF%A0%ED%8F%B0%ED%95%A8.png" hight="150px;" width="300px;" alt=""/>
@@ -123,4 +124,4 @@
 
 ## 6. 팀 문화
 
-<h3>👉👉<a href="https://www.notion.so/359f3b51016b40c2965bbfb45853ecd4"> 팀 노션 링크</a>👈👈</h3>
+<h4><a href="https://www.notion.so/359f3b51016b40c2965bbfb45853ecd4"> <img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%85%B8%EC%85%98.png" hight="150px;" width="150px;" alt=""/></a>👉 클릭시 팀 노션으로 이동합니다.</h4>
