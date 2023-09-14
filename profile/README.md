@@ -80,7 +80,7 @@
 
 ## 역할
 ✨김빛누리 BE(조장) :     
--백엔드: 유저, 쿠폰, 매장  
+-백엔드: 유저, 쿠폰, 매장 
 -프론트: 지도로 매장 조회  
 -인프라  
 
@@ -116,7 +116,7 @@
 |   Part    |                                                                                                                                                                                                                                                                                                                 Tech ⚙                                                                                                                                                                                                                                                                                                                 |
 | :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  **FE**   |                                                                                                            <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">                                                                                                            |
-|  **BE**   | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/MYSQL-003545?style=for-the-badge&logo=MYSQL&logoColor=white"><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"><img src="https://img.shields.io/badge/Spring DATA JPA-009639?style=for-the-badge&logo=spring&logoColor=white"> |
+|  **BE**   | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/MYSQL-003545?style=for-the-badge&logo=MYSQL&logoColor=white"><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"><img src="https://img.shields.io/badge/Spring DATA JPA-009639?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=typescript&logoColor=white"> |
 | **Infra** |                                                                                                    <img src="https://img.shields.io/badge/gcp-FF9900?style=for-the-badge&logo=googlecloud&logoColor=white"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">                                                                                              
 
 ## 2. 주요 기능
