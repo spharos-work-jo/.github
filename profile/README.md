@@ -77,5 +77,38 @@
 </div>   
 </div>
 
+## 목차
 
+[1. 기술 스택](#1-기술-스택)
 
+[2. 주요 기능](#2-주요-기능)
+
+[3. 화면 상세](#3-화면-상세)
+
+[4. 아키텍처](#4-아키텍처)
+
+[5. 프로젝트 설계 문서](#5-프로젝트-설계-문서)
+
+[6. 팀 문서](#6-팀-문서)
+
+## 1. 기술 스택
+|   Part    |                                                                                                                                                                                                                                                                                                                 Tech ⚙                                                                                                                                                                                                                                                                                                                 |
+| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  **FE**   |                                                                                                            <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">                                                                                                            |
+|  **BE**   | <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/MYSQL-003545?style=for-the-badge&logo=MYSQL&logoColor=white"><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"><img src="https://img.shields.io/badge/Spring DATA JPA-009639?style=for-the-badge&logo=spring&logoColor=white"> |
+| **Infra** |                                                                                                    <img src="https://img.shields.io/badge/gcp-FF9900?style=for-the-badge&logo=googlecloud&logoColor=white"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">                                                                                                    |
+
+## 2. 주요 기능
+
+## 3. 화면 상세
+
+## 4. 아키텍처
+
+## 5. 프로젝트 설계 문서
+
+- ERD
+
+- JIRA
+
+## 6. 팀 문화
+- notion
