@@ -24,7 +24,7 @@
         <br>
       </td>
       <td align="center">
-        <image src="https://i.namu.wiki/i/EbHl4I2dCr3aoC7AFjMYv7zBAFQTE0Cr0-r2XiIKLakxARH3BY9eonE3AZ2_ctET_2vpLI-piN4F224wAUdyyQ.webp" width="150px;" hight="150px;" alt=""/><br>
+        <image src="https://avatars.githubusercontent.com/u/69845367?v=4" width="150px;" hight="150px;" alt=""/><br>
           <p>
             <b>
           팀원 : 김성용<br>
@@ -48,7 +48,7 @@
         <br>
       </td>
       <td align="center">
-      <image src="https://i.namu.wiki/i/EbHl4I2dCr3aoC7AFjMYv7zBAFQTE0Cr0-r2XiIKLakxARH3BY9eonE3AZ2_ctET_2vpLI-piN4F224wAUdyyQ.webp" width="150px;" hight="150px;" alt=""/><br>
+      <image src="https://avatars.githubusercontent.com/u/140700973?v=4" width="150px;" hight="150px;" alt=""/><br>
           <p>
             <b>
           팀원 : 김형진<br>
