@@ -1,12 +1,13 @@
-<div align="center">
+<div>
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=8EC69D&height=300&section=header&text=스파로스%201차%20프로젝트&fontSize=40" />
-  <div align="center">
+  <div>
     <h3>⭐1차 프로젝트 - 신세계 포인트 앱 클론코딩⭐</h3> 
     <h4>프로젝트 기간 - 7/31 ~ 9/14</h4>
       <image height=300 src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/shinsefaePointApp.png"/>
         <br><br>
   </div>
   <div>
+    <h2>✔팀명 : 일시켜조</h2>
     <h3>🧑팀원 소개👩</h3>
   <table>
   <tbody>
