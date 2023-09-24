@@ -6,10 +6,20 @@
       <image height=300 src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/shinsefaePointApp.png"/>
         <br><br>
   </div>
-  <div>
-    <h2>✔팀명 : 일시켜조</h2>
-    <h3>🧑팀원 소개👩</h3>
-  <table>
+</div>
+
+##  💁 간단 소개
+
+### "포인트 적립 및 선물, 쿠폰, 이벤트 등을 제공하는 포인트 서비스"
+휴대폰 인증을 하고 가입한 유저가 포인트 적립, 다른 유저에게 선물을 할 수 있고 쿠폰 다운로드를 할 수 있는 서비스
+
+
+- 🔗 LINK : https://ssg-point.vercel.app
+- 🎼 Period : 2023.07.31 ~ 2023.09.18 (8주간 진행)
+<br>
+          
+## 🧑 팀원 소개 👩
+ <table>
   <tbody>
     <tr>
       <td align="center">
@@ -80,26 +90,25 @@
     </tr>
   </tbody>
 </table>
-</div>   
-</div>
+
 
 ## 역할
-✨김빛누리 BE(조장) :     
+✨김빛누리(조장) :     
 -백엔드: 유저, 쿠폰, 매장 
 -프론트: 지도로 매장 조회  
--인프라  
+-인프라
 
-✨김성용 BE :  
+✨김성용 :  
 -백엔드 : 이벤트, 포인트 조회, 포인트 선물, 포인트 적립    
 
-✨고신영 FE :  
+✨고신영 :  
 -프론트 : 포인트, 유저  
 -서기  
 
-✨김형진FE :  
+✨김형진 :  
 -프론트 : 이벤트, 쿠폰, 메인 홈, 로그인    
 
-✨배송윤FE :  
+✨배송윤 :  
 -프론트 : 마이 라운지, 사이드 메뉴바    
 
 
@@ -144,10 +153,16 @@
 <img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/KakaoTalk_20230914_142811015.png" height="500px;" width="700px;" alt=""/>
 
 ## 5. 프로젝트 설계 문서
-<img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/erd%20cloud.png" height="500px;" width="1000px;" alt=""/>👉ERD Clud : https://www.erdcloud.com/d/9StnGP9ZqWXYSh2CH
-<img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%A7%80%EB%9D%BC.png" height="500px;" width="1000px;" alt=""/> <b>ZIRA</b>
+👉 **ERD**: https://www.erdcloud.com/d/9StnGP9ZqWXYSh2CH
 <br>
-👉Miro(이벤트 스토밍) : https://miro.com/app/board/uXjVMXdyT0I=/?share_link_id=996876075094
+👉 **Event Stoming** : [Miro](https://miro.com/app/board/uXjVMxG86Ic=/?share_link_id=275874227948)
+<br>
+👉 **Others (API, 요구사항 정의서, WBS 등)** : [구글docs](https://docs.google.com/spreadsheets/d/1Ib8-kQ6RgYCmZ4avpILhNL_y7kGXO8H5/edit?usp=sharing&ouid=106194532705221676494&rtpof=true&sd=true)
+<br>
+<img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/erd%20cloud.png" height="500px;" width="1000px;" alt=""/>
+<img src="https://github.com/spharos-work-jo/.github/blob/main/profile/images/%EB%A6%AC%EB%93%9C%EB%AF%B8%20%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%A7%80%EB%9D%BC.png" height="500px;" width="1000px;" alt=""/>
+<br>
+
 ## 6. 팀 문서
 
 ### 팀워크 & 커뮤니케이션
